@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=linkedin&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Vombatullah&style=flat-square&color=red" alt=""/>
 <h1>
   hey there
