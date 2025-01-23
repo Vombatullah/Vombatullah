@@ -15,12 +15,28 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :man_technologist: About me:
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+---
+  
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+:man_technologist: About Me :
 
-- :seedling: Exploring Technical Content Writing.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Я студент второго курса веб разработки
+- 🔭я учусь созданию баз данных и работе с ними
+- 👨‍💻разработкой сайтов на html и python
+- 🖌️созданию визуальных новелл
+- ⚡В свободное время играю в cs2
+- 📫 Как со мной связаться:![Linkedin Badge](https://t.me/Gartolit)
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+---
+### :hammer_and_wrench: Languages and Tools :
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=black)](https://t.me/Gartolit)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
