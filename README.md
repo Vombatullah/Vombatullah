@@ -25,7 +25,7 @@
 - 👨‍💻разработкой сайтов на html и python
 - 🖌️созданию визуальных новелл
 - ⚡люблю ходить в зал
-- 📫 Как со мной связаться:![Telegram Badge](https://t.me/Gartolit)
+- 📫 Как со мной связаться: <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=linkedin&logoColor=black" alt="Telegram Badge"/>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
